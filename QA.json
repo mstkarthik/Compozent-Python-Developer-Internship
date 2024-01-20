@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "question": "What's your favorite color?",
+      "answers": [
+        "I don't have a favorite color, but I like all the colors!",
+        "I'm a chatbot, so I don't have preferences, but I think blue is nice."
+      ]
+    },
+    {
+      "question": "How do you make a cup of tea?",
+      "answers": [
+        "To make tea, boil water, add tea leaves or tea bags, and let it steep. Add sugar or milk if you like!",
+        "Making tea is easy! Just heat water, pour it over tea leaves, and wait for it to brew."
+      ]
+    },
+    {
+      "question": "Can you recommend a good pet?",
+      "answers": [
+        "Dogs make wonderful pets! They are loyal and great companions.",
+        "Consider getting a cat as a pet; they are independent and can be quite affectionate."
+      ]
+    },
+    {
+      "question": "Tell me a fun fact.",
+      "answers": [
+        "Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible!",
+        "Bananas are berries, but strawberries aren't! Botanically speaking, strawberries are considered aggregate accessory fruits."
+      ]
+    },
+    {
+      "question": "What's the square root of 25?",
+      "answers": [
+        "The square root of 25 is 5.",
+        "It's 5! Because 5 multiplied by itself (5 x 5) equals 25."
+      ]
+    },
+    {
+      "question": "Describe a rainbow.",
+      "answers": [
+        "A rainbow is a beautiful meteorological phenomenon that consists of seven colors: red, orange, yellow, green, blue, indigo, and violet.",
+        "Rainbows form when sunlight is refracted, or bent, in raindrops in the atmosphere, creating a spectrum of colors."
+      ]
+    },
+    {
+      "question": "How many continents are there?",
+      "answers": [
+        "There are seven continents on Earth: Asia, Africa, North America, South America, Antarctica, Europe, and Australia.",
+        "Correct! Earth has seven continents, each with its own unique geography and ecosystems."
+      ]
+    },
+    {
+      "question": "What's the capital of Japan?",
+      "answers": [
+        "The capital of Japan is Tokyo.",
+        "Tokyo is the capital city of Japan, known for its vibrant culture and advanced technology."
+      ]
+    },
+    {
+      "question": "Recommend a type of fruit.",
+      "answers": [
+        "Try eating an apple! They are delicious and packed with nutrients.",
+        "Consider enjoying a banana as a healthy and convenient snack option."
+      ]
+    },
+    {
+      "question": "Tell me a short story.",
+      "answers": [
+        "Once upon a time, in a small village, there lived a curious cat named Whiskers. Whiskers loved exploring the fields and meeting new friends.",
+        "In a magical forest, a wise owl named Oliver helped a lost bunny find its way home. From that day forward, they became the best of friends."
+      ]
+    },
+    {
+      "question": "Hello",
+      "answers": [
+        "Hello There!"
+      ]
+    },
+    {
+      "question": "Good Morning",
+      "answers": [
+        "Good Morning"
+      ]
+    },
+    {
+      "question": "& D:/Practicals/Software/python/python.exe c:/Users/Karthik/Desktop/Webscraping.py",
+      "answers": [
+        "& D:/Practicals/Software/python/python.exe c:/Users/Karthik/Desktop/Webscraping.py"
+      ]
+    }
+  ]
+}
